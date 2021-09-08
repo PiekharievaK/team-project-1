@@ -29,9 +29,25 @@
   background-position: center;
 }
 
+.page {
+  background-color: #f5f4fa;
+  padding: 94px 0px;
+}
+
+.page__title {
+  font-family: serif;
+}
+
+body {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
 .test-1 {
   position: relative;
   height: 500px;
+  width: 1200px;
 }
 
 .bg {
