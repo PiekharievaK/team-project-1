@@ -32,6 +32,7 @@
 .test-1 {
   position: relative;
   height: 500px;
+  width: 1200px;
 }
 
 .bg {
